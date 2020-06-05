@@ -1,0 +1,16 @@
+  {
+  "users":[
+    {"id": 1, "name": "ROSARIO RAMIREZ RIOS", "username": "ROX", "email": "micorreo@correo.com", "image": "miimagen.png"},
+    {"id": 2, "name": "JOSE ANGEL PENA LOPEZ", "username": "ANGELITO", "email": "micorreo2@correo.com", "image": "miimagen2.png"},
+    {"id": 3, "name": "MAXIMILIANO CALLES RAMIREZ", "username": "MAXITO", "email": "micorreo3@correo.com", "image": "miimagen.png"},
+  ],
+  "posts": [
+    { "id": 1, "title": "Post 1", "body": "mibody", "userId": 1},
+    { "id": 2, "title": "Post 2", "body": "mibody2", "userId": 2},
+    { "id": 3, "title": "Post 3", "body": "mibody3", "userId": 3}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ]
+}
